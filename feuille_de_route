@@ -1,0 +1,10 @@
+Le Programme du srabble est très dur, La partie graphique et la partie fonctionnelle sont ingérable a deux.
+Classement :
+
+1) Nous avons eu du mal a reconnaitre l'emplacement de nos erreur lors d'un segmentation fault
+2) Reconnaitre quels mots avait été créés pendant le tour d'un jour 
+3) Problème contacts j'ai (Arnaud HENCHES) été absent pendant toutes les vacances
+4) compter les points
+5) A chaque creation d'une nouvelle fonctionnalité le debuggage est long et fastidieux
+6) Nos noms de variables ne sont pas clair
+7) Le travail n'est pas fini a temps. 
